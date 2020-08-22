@@ -1,0 +1,7 @@
+[Client] Hyp3r#0001 : owo
+[Creator] Test Dummy#7128 : lol
+[Creator] Test Dummy#7128 : -status
+[Creator] Test Dummy#7128 : -accept
+[Creator] Test Dummy#7128 : -product **Your Mom** : Lol
+[Creator] Test Dummy#7128 : -close
+[------ Client closed the ticket ------]
